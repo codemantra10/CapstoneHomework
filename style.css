@@ -1,0 +1,10 @@
+#img1,#img2,#img3,#img4,#img5{
+background-color: gray;
+border-radius: 40;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#title{
+font-family: cursive;
+background-color: blue;
+color: cornflowerblue;
+}
